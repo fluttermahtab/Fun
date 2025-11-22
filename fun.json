@@ -1,0 +1,29 @@
+{
+  "fun": [
+    {
+      "id": 1,
+      "title": "Morning",
+      "link": "Morning",
+      "time": "06:00"
+    },
+    {
+      "id": 2,
+      "title": "Afternoon",
+      "link": "Morning",
+      
+      "time": "12:00"
+    },
+    {
+      "id": 3,
+      "link": "Morning",
+      "title": "Evening",
+      "time": "18:00"
+    },
+    {
+      "id": 4,
+      "link": "Morning",
+      "title": "Night",
+      "time": "22:00"
+    }
+  ]
+}
