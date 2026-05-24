@@ -1,70 +1,103 @@
 {
   "products": [
-
-     {
+    {
       "category": "T-Shirt",
-      "image":
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
-      "title": "Classic Tee",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%201.jpeg",
+      "title": "Product 1",
       "size": "M",
       "cutPrice": 1999,
       "price": 1299,
-      "discount": 35,
+      "discount": 35
     },
     {
       "category": "T-Shirt",
-      "image":
-      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600",
-      "title": "Urban Tee",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%202.jpeg",
+      "title": "Product 2",
       "size": "L",
       "cutPrice": 2499,
       "price": 1599,
-      "discount": 40,
+      "discount": 40
     },
     {
       "category": "Sleeveless",
-      "image":
-      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=600",
-      "title": "Sleeveless Fit",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%203.jpeg",
+      "title": "Product 3",
       "size": "XL",
       "cutPrice": 2200,
       "price": 1450,
-      "discount": 30,
+      "discount": 30
     },
     {
       "category": "Sleeveless",
-      "image":
-      "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600",
-      "title": "Sport Tank",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%204.jpeg",
+      "title": "Product 4",
       "size": "M",
       "cutPrice": 2000,
       "price": 1350,
-      "discount": 32,
+      "discount": 32
     },
     {
       "category": "Shirt",
-      "image":
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600",
-      "title": "Formal Shirt",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%205.jpeg",
+      "title": "Product 5",
       "size": "M",
       "cutPrice": 3500,
       "price": 2500,
-      "discount": 28,
+      "discount": 28
     },
-
-    // KIDS PRODUCT
     {
       "category": "Kids",
-      "image":
-      "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=600",
-      "title": "Kids Hoodie",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%206.jpeg",
+      "title": "Product 6",
       "size": "S",
       "cutPrice": 1800,
       "price": 1200,
-      "discount": 33,
+      "discount": 33
     },
-   
+    {
+      "category": "Kids",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%207.jpeg",
+      "title": "Product 7",
+      "size": "M",
+      "cutPrice": 2200,
+      "price": 1600,
+      "discount": 27
+    },
+    {
+      "category": "Shirt",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%208.jpeg",
+      "title": "Product 8",
+      "size": "L",
+      "cutPrice": 2800,
+      "price": 1900,
+      "discount": 32
+    },
+    {
+      "category": "T-Shirt",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%209.jpeg",
+      "title": "Product 9",
+      "size": "XL",
+      "cutPrice": 2600,
+      "price": 1750,
+      "discount": 29
+    },
+    {
+      "category": "Sleeveless",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%2010.jpeg",
+      "title": "Product 10",
+      "size": "M",
+      "cutPrice": 2300,
+      "price": 1500,
+      "discount": 35
+    },
+    {
+      "category": "Kids",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%2011.jpeg",
+      "title": "Product 11",
+      "size": "S",
+      "cutPrice": 2100,
+      "price": 1400,
+      "discount": 33
+    }
   ]
 }
-
-
