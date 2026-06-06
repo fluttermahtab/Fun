@@ -2,7 +2,7 @@
   "products": [
     {
       "category": "T-Shirt",
-      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%201.jpeg",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/front.png",
       "title": "Product 1",
       "size": "M",
       "cutPrice": 1999,
@@ -11,7 +11,7 @@
     },
     {
       "category": "T-Shirt",
-      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/product%202.jpeg",
+      "image": "https://raw.githubusercontent.com/fluttermahtab/Fun/main/pImages/front-back.png",
       "title": "Product 2",
       "size": "L",
       "cutPrice": 2499,
